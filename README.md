@@ -10,3 +10,5 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+项目注意事项：
+1.这是一个云端项目，我们一起努力学技术。
