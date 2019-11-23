@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/mine/mine",
+    
     "pages/index/index",
     "pages/userConsole/userConsole",
     "pages/storageConsole/storageConsole",
@@ -28,7 +30,7 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/chooseLib/chooseLib",
+        "pagePath": "pages/mine/mine",
         "text": "我的"
       }
     ]

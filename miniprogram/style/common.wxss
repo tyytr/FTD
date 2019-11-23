@@ -1,0 +1,625 @@
+/* 外上边距 */
+.g-mt-10{
+  margin-top: 10rpx;
+}
+.g-mt-20{
+  margin-top: 20rpx;
+}
+.g-mt-30{
+  margin-top: 30rpx;
+}
+.g-mt-40{
+  margin-top: 40rpx;
+}
+.g-mt-50{
+  margin-top: 50rpx;
+}
+.g-mt-60{
+  margin-top: 60rpx;
+}
+.g-mt-80{
+  margin-top: 80rpx;
+}
+.g-mt-100{
+  margin-top: 100rpx;
+}
+.g-mt-120{
+  margin-top: 120rpx;
+}
+.g-mt-150{
+  margin-top: 150rpx;
+}
+.g-mt-200{
+  margin-top: 200rpx;
+}
+.g-mt-250{
+  margin-top: 250rpx;
+}
+.g-mt-300{
+  margin-top: 300rpx;
+}
+
+/* 外右边距 */
+.g-mr-10{
+  margin-right: 10rpx;
+}
+.g-mr-20{
+  margin-right: 20rpx;
+}
+.g-mr-30{
+  margin-right: 30rpx;
+}
+.g-mr-40{
+  margin-right: 40rpx;
+}
+.g-mr-50{
+  margin-right: 50rpx;
+}
+.g-mr-60{
+  margin-right: 60rpx;
+}
+.g-mr-80{
+  margin-right: 80rpx;
+}
+.g-mr-100{
+  margin-right: 100rpx;
+}
+.g-mr-120{
+  margin-right: 120rpx;
+}
+.g-mr-150{
+  margin-right: 150rpx;
+}
+.g-mr-200{
+  margin-right: 200rpx;
+}
+.g-mr-250{
+  margin-right: 250rpx;
+}
+.g-mr-300{
+  margin-right: 300rpx;
+}
+
+/* 外右边距 */
+.g-mb-10{
+  margin-bottom: 10rpx;
+}
+.g-mb-20{
+  margin-bottom: 20rpx;
+}
+.g-mb-30{
+  margin-bottom: 30rpx;
+}
+.g-mb-40{
+  margin-bottom: 40rpx;
+}
+.g-mb-50{
+  margin-bottom: 50rpx;
+}
+.g-mb-60{
+  margin-bottom: 60rpx;
+}
+.g-mb-80{
+  margin-bottom: 80rpx;
+}
+.g-mb-100{
+  margin-bottom: 100rpx;
+}
+.g-mb-120{
+  margin-bottom: 120rpx;
+}
+.g-mb-150{
+  margin-bottom: 150rpx;
+}
+.g-mb-200{
+  margin-bottom: 200rpx;
+}
+.g-mb-250{
+  margin-bottom: 250rpx;
+}
+.g-mb-300{
+  margin-bottom: 300rpx;
+}
+
+/* 外左边距 */
+.g-ml-10{
+  margin-left: 10rpx;
+}
+.g-ml-20{
+  margin-left: 20rpx;
+}
+.g-ml-30{
+  margin-left: 30rpx;
+}
+.g-ml-40{
+  margin-left: 40rpx;
+}
+.g-ml-50{
+  margin-left: 50rpx;
+}
+.g-ml-60{
+  margin-left: 60rpx;
+}
+.g-ml-80{
+  margin-left: 80rpx;
+}
+.g-ml-100{
+  margin-left: 100rpx;
+}
+.g-ml-120{
+  margin-left: 120rpx;
+}
+.g-ml-150{
+  margin-left: 150rpx;
+}
+.g-ml-200{
+  margin-left: 200rpx;
+}
+.g-ml-250{
+  margin-left: 250rpx;
+}
+.g-ml-300{
+  margin-left: 300rpx;
+}
+
+/* 外x边距 */
+.g-mx-10{
+  margin-left: 10rpx;
+  margin-right: 10rpx;
+}
+.g-mx-20{
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+}
+.g-mx-30{
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+}
+.g-mx-40{
+  margin-left: 40rpx;
+  margin-right: 40rpx;
+}
+.g-mx-50{
+  margin-left: 50rpx;
+  margin-right: 50rpx;
+}
+.g-mx-60{
+  margin-left: 60rpx;
+  margin-right: 60rpx;
+}
+.g-mx-80{
+  margin-left: 80rpx;
+  margin-right: 80rpx;
+}
+.g-mx-100{
+  margin-left: 100rpx;
+  margin-right: 100rpx;
+}
+.g-mx-120{
+  margin-left: 120rpx;
+  margin-right: 120rpx;
+}
+.g-mx-150{
+  margin-left: 150rpx;
+  margin-right: 150rpx;
+}
+.g-mx-200{
+  margin-left: 200rpx;
+  margin-right: 200rpx;
+}
+.g-mx-250{
+  margin-left: 250rpx;
+  margin-right: 250rpx;
+}
+.g-mx-300{
+  margin-left: 300rpx;
+  margin-right: 300rpx;
+}
+
+/* 外y边距 */
+.g-my-10{
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-20{
+  margin-top: 20rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-30{
+  margin-top: 30rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-40{
+  margin-top: 40rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-50{
+  margin-top: 50rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-60{
+  margin-top: 60rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-80{
+  margin-top: 80rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-100{
+  margin-top: 100rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-120{
+  margin-top: 120rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-150{
+  margin-top: 150rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-200{
+  margin-top: 200rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-250{
+  margin-top: 250rpx;
+  margin-bottom: 10rpx;
+}
+.g-my-300{
+  margin-top: 300rpx;
+  margin-bottom: 10rpx;
+}
+
+/* 外边距 */
+.g-ma-10{
+  margin: 10rpx;
+}
+.g-ma-20{
+  margin: 20rpx;
+}
+.g-ma-30{
+  margin: 30rpx;
+}
+.g-ma-40{
+  margin: 40rpx;
+}
+.g-ma-50{
+  margin: 50rpx;
+}
+.g-ma-60{
+  margin: 60rpx;
+}
+.g-ma-80{
+  margin: 80rpx;
+}
+.g-ma-100{
+  margin: 100rpx;
+}
+.g-ma-120{
+  margin: 120rpx;
+}
+.g-ma-150{
+  margin: 150rpx;
+}
+.g-ma-200{
+  margin: 200rpx;
+}
+.g-ma-250{
+  margin: 250rpx;
+}
+.g-ma-300{
+  margin: 300rpx;
+}
+
+/* 内上边距 */
+.g-pt-10{
+  padding-top: 10rpx;
+}
+.g-pt-20{
+  padding-top: 20rpx;
+}
+.g-pt-30{
+  padding-top: 30rpx;
+}
+.g-pt-40{
+  padding-top: 40rpx;
+}
+.g-pt-50{
+  padding-top: 50rpx;
+}
+.g-pt-60{
+  padding-top: 60rpx;
+}
+.g-pt-80{
+  padding-top: 80rpx;
+}
+.g-pt-100{
+  padding-top: 100rpx;
+}
+.g-pt-120{
+  padding-top: 120rpx;
+}
+.g-pt-150{
+  padding-top: 150rpx;
+}
+.g-pt-200{
+  padding-top: 200rpx;
+}
+.g-pt-250{
+  padding-top: 250rpx;
+}
+.g-pt-300{
+  padding-top: 300rpx;
+}
+
+/* 内右边距 */
+.g-pr-10{
+  padding-right: 10rpx;
+}
+.g-pr-20{
+  padding-right: 20rpx;
+}
+.g-pr-30{
+  padding-right: 30rpx;
+}
+.g-pr-40{
+  padding-right: 40rpx;
+}
+.g-pr-50{
+  padding-right: 50rpx;
+}
+.g-pr-60{
+  padding-right: 60rpx;
+}
+.g-pr-80{
+  padding-right: 80rpx;
+}
+.g-pr-100{
+  padding-right: 100rpx;
+}
+.g-pr-120{
+  padding-right: 120rpx;
+}
+.g-pr-150{
+  padding-right: 150rpx;
+}
+.g-pr-200{
+  padding-right: 200rpx;
+}
+.g-pr-250{
+  padding-right: 250rpx;
+}
+.g-pr-300{
+  padding-right: 300rpx;
+}
+
+/* 内下边距 */
+.g-pb-10{
+  padding-bottom: 10rpx;
+}
+.g-pb-20{
+  padding-bottom: 20rpx;
+}
+.g-pb-30{
+  padding-bottom: 30rpx;
+}
+.g-pb-40{
+  padding-bottom: 40rpx;
+}
+.g-pb-50{
+  padding-bottom: 50rpx;
+}
+.g-pb-60{
+  padding-bottom: 60rpx;
+}
+.g-pb-80{
+  padding-bottom: 80rpx;
+}
+.g-pb-100{
+  padding-bottom: 100rpx;
+}
+.g-pb-120{
+  padding-bottom: 120rpx;
+}
+.g-pb-150{
+  padding-bottom: 150rpx;
+}
+.g-pb-200{
+  padding-bottom: 200rpx;
+}
+.g-pb-250{
+  padding-bottom: 250rpx;
+}
+.g-pb-300{
+  padding-bottom: 300rpx;
+}
+
+/* 内左边距 */
+.g-pl-10{
+  padding-left: 10rpx;
+}
+.g-pl-20{
+  padding-left: 20rpx;
+}
+.g-pl-30{
+  padding-left: 30rpx;
+}
+.g-pl-40{
+  padding-left: 40rpx;
+}
+.g-pl-50{
+  padding-left: 50rpx;
+}
+.g-pl-60{
+  padding-left: 60rpx;
+}
+.g-pl-80{
+  padding-left: 80rpx;
+}
+.g-pl-100{
+  padding-left: 100rpx;
+}
+.g-pl-120{
+  padding-left: 120rpx;
+}
+.g-pl-150{
+  padding-left: 150rpx;
+}
+.g-pl-200{
+  padding-left: 200rpx;
+}
+.g-pl-250{
+  padding-left: 250rpx;
+}
+.g-pl-300{
+  padding-left: 300rpx;
+}
+
+/* 内x边距 */
+.g-px-10{
+  padding-left: 10rpx;
+  padding-right: 10rpx;
+}
+.g-px-20{
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+}
+.g-px-30{
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+}
+.g-px-40{
+  padding-left: 40rpx;
+  padding-right: 40rpx;
+}
+.g-px-50{
+  padding-left: 50rpx;
+  padding-right: 50rpx;
+}
+.g-px-60{
+  padding-left: 60rpx;
+  padding-right: 60rpx;
+}
+.g-px-80{
+  padding-left: 80rpx;
+  padding-right: 80rpx;
+}
+.g-px-100{
+  padding-left: 100rpx;
+  padding-right: 100rpx;
+}
+.g-px-120{
+  padding-left: 120rpx;
+  padding-right: 120rpx;
+}
+.g-px-150{
+  padding-left: 150rpx;
+  padding-right: 150rpx;
+}
+.g-px-200{
+  padding-left: 200rpx;
+  padding-right: 200rpx;
+}
+.g-px-250{
+  padding-left: 250rpx;
+  padding-right: 250rpx;
+}
+.g-px-300{
+  padding-left: 300rpx;
+  padding-right: 300rpx;
+}
+
+/* 内y边距 */
+.g-py-10{
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+}
+.g-py-20{
+  padding-top: 20rpx;
+  padding-bottom: 20rpx;
+}
+.g-py-30{
+  padding-top: 30rpx;
+  padding-bottom: 30rpx;
+}
+.g-py-40{
+  padding-top: 40rpx;
+  padding-bottom: 40rpx;
+}
+.g-py-50{
+  padding-top: 50rpx;
+  padding-bottom: 50rpx;
+}
+.g-py-60{
+  padding-top: 60rpx;
+  padding-bottom: 60rpx;
+}
+.g-py-80{
+  padding-top: 80rpx;
+  padding-bottom: 80rpx;
+}
+.g-py-100{
+  padding-top: 100rpx;
+  padding-bottom: 100rpx;
+}
+.g-py-120{
+  padding-top: 120rpx;
+  padding-bottom: 120rpx;
+}
+.g-py-150{
+  padding-top: 150rpx;
+  padding-bottom: 150rpx;
+}
+.g-py-200{
+  padding-top: 200rpx;
+  padding-bottom: 200rpx;
+}
+.g-py-250{
+  padding-top: 250rpx;
+  padding-bottom: 250rpx;
+}
+.g-py-300{
+  padding-top: 300rpx;
+  padding-bottom: 300rpx;
+}
+
+/* 内边距 */
+.g-pa-10{
+  padding: 10rpx;
+}
+.g-pa-20{
+  padding: 20rpx;
+}
+.g-pa-30{
+  padding: 30rpx;
+}
+.g-pa-40{
+  padding: 40rpx;
+}
+.g-pa-50{
+  padding: 50rpx;
+}
+.g-pa-60{
+  padding: 60rpx;
+}
+.g-pa-80{
+  padding: 80rpx;
+}
+.g-pa-100{
+  padding: 100rpx;
+}
+.g-pa-120{
+  padding: 120rpx;
+}
+.g-pa-150{
+  padding: 150rpx;
+}
+.g-pa-200{
+  padding: 200rpx;
+}
+.g-pa-250{
+  padding: 250rpx;
+}
+.g-pa-300{
+  padding: 300rpx;
+}
