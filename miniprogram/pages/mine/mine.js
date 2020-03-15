@@ -5,7 +5,17 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    userPlacehoder: "Hi,您未登录",
+    mineList: [{
+      id: 0,
+      title: "观看记录"
+    }, {
+      id: 1,
+      title: "观看进度"
+    }, {
+      id: 2,
+      title: "反馈意见"
+    }]
   },
 
   /**

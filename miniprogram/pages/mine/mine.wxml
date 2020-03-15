@@ -1,2 +1,8 @@
 <!--pages/mine/mine.wxml-->
-<text>pages/mine/mine.wxml</text>
+<view class="mine">
+  <view class="user g-px-20 g-pt-600 g-pb-20">
+    <image class="user-image" src="/images/mine/logo.png"></image>
+    <text class="g-ml-20">{{userPlacehoder}}</text>
+  </view>
+  <view class="mineList g-pa-20 " wx:for="{{mineList}}" wx:key="{{item.id}}">{{item.title}}</view>
+</view>

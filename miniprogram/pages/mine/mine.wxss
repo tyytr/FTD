@@ -1,1 +1,18 @@
 /* pages/mine/mine.wxss */
+@import "/style/common.wxss";
+.mine{
+  width: 100%;
+}
+.user{
+  display: flex;
+  align-items: center;
+  border-bottom: 1rpx solid #C5C5C5;
+}
+.user-image{
+  width: 144rpx;
+  height: 144rpx;
+  border-radius: 50%;
+}
+.mineList{
+  border-bottom: 1rpx solid #E0E0E0;
+}
